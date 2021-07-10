@@ -14,3 +14,6 @@ Furthermore, the system archtitecture I've used is Controller-Service-Repository
 For the client side, I've used the MVC design pattern.
 
 Finally, the requests/resonses in both the server and the client are handled in an asynchronos way using an executor and a thread pool.
+
+
+//** For the application to work, run the "Startup" class and type in the console "start" to launch the server. Afterwards, you must run the client side for the GUI **//
